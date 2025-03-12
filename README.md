@@ -1,5 +1,5 @@
 <h1 align = "center">
-    GWAS PIPELINE
+    GWAS PIPELINE - Rmarkdown
 </h1>
 
 <h3 align = 'center'>
